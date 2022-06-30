@@ -33,3 +33,9 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### Setup json server
+
+```sh
+npm run json
+```
